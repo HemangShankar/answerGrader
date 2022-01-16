@@ -1,6 +1,5 @@
 /*
 AP Computer Science A
-Unit 6 Arrays Programming Project
 Programmers: Hemang Shankar
 Date: 1/4/2022
 */
