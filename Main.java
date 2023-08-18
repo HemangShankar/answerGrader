@@ -1,7 +1,5 @@
 /*
-AP Computer Science A
-Programmers: Hemang Shankar
-Date: 1/4/2022
+Programmer: Hemang Shankar
 */
 
 //Imports the scanner class
